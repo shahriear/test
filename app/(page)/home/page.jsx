@@ -10,7 +10,7 @@ const home = () => {
 
   return (
     <div>
-      <h1>welcome to my Home</h1>
+      <h1> 12 barota baje </h1>
        <Image 
         src={nobita} 
         alt="My Profile Picture"
